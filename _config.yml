@@ -1,0 +1,14 @@
+layout_spectrum: 0.29536836314946413
+typography_spectrum: 0.5561993075534701
+color:
+  brandStrength: 0.3333598074968904
+  lightness: 0.6115517811849713
+  saturation: 0.1894276333041489
+  rhythmicContrast: 0.45785645162686706
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: jilg-meiser
