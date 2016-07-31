@@ -6,9 +6,9 @@ color:
   saturation: 0.1894276333041489
   rhythmicContrast: 0.45785645162686706
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#FF0000'
+    - '#FFFFFF'
+    - '#775B50'
+    - '#C69E6C'
 name: jilg-meiser
