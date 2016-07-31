@@ -1,4 +1,3 @@
-layout_spectrum: 0.29536836314946413
 typography_spectrum: 0.5561993075534701
 color:
   brandStrength: 0.3333598074968904
@@ -11,5 +10,7 @@ color:
     - '#FFFFFF'
     - '#775B50'
     - '#C69E6C'
+layout_spectrum: 0.29536836314946413
 name: jilg-meiser
+title: Eveline Jilg-Meiser
 description: Dipl.-Ing. Freie Architektin VDA
